@@ -1,0 +1,8 @@
+VMs vs Containers
+Virtual Machines (VMs) do not make the best use of space. Apps are not isolated which could cause config conflicts, security problems or resource hogging.
+
+Containers allow you to run multiple apps which are virtually isolated from each other.
+
+Launch new containers and configure OS
+
+Dependencies per container.

@@ -1,0 +1,14 @@
+Kubernetes
+Kubernetes is an open-source container orchestration system for automating deployment, scaling, and management of containers.
+
+Originally created by Google and now maintained by the Cloud Native Computing Foundation (CNCF) as a CNCF Project
+
+Kubernetes is commonly called K8s The 8 represent the remaining letters “ubernete”
+
+**The advantage of Kubernetes over Docker is the ability to run “container apps” distributed across multiple VMs
+
+A unique component of Kubernetes are Pods.
+
+A pod is a group of one or more containers with shared storage, network resources, and other shared settings.
+
+Kubernetes is ideally for micro-service architectures where a company has tens to hundreds of services they need to manage
