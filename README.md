@@ -15,6 +15,21 @@
 - 08	Exam-day logistics and what comes after 	 (scheduled)
 
 ## Cloud Native Kubernetes Concepts (Self Study)
+- 01_What_is_CN?.md
+- 02_CSPvsSP.md
+- 03_Cloud Native Shared Responsibility Model.md
+- 04_LF_linux_foundation.md
+- 05_CNCF.md
+- 06_Cloud Native Landscape.md
+- 07_cloud_native_Map.md
+- 08_VM_vs_Containers.md
+- 09_What_Is_micro_services.md
+- 10_Intro_to_Kubernetes.md
+- 11_Kubernetes Components Overview.md
+- 12_Manifest Files in Kubernetes.md
+- 13_Control Plane and Worker Nodes.md
+- 14_Pods.md
+- 15_KubeApiServer.md
 
 ## Resources
 
