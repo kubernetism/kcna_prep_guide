@@ -2,7 +2,7 @@
 
 ## Claude KCNA Preparation Guide
 
-### Chapter and it Covers
+### Chapters and What it Covers.
 
 - 00	Orientation, exam facts, personalization 	 ***(Added)***
 - 01	Cloud Native Architecture — CNCF, the landscape, project maturity, personas 	 ***(Added)***
