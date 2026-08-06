@@ -36,3 +36,6 @@
 ### Youtube
 
 - [Kubernetes and Cloud Native Associate (KCNA) by ExamPro.co](https://www.youtube.com/playlist?list=PLBfufR7vyJJ7ordPnZnKHy2FMpqh0aLOT)
+
+### Website for Mock Exams
+-   [OpenExamPrep](https://open-exam-prep.com/blog/kubernetes-cloud-native-associate-kcna-exam-guide-2026)
