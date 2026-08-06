@@ -10,9 +10,9 @@
 - 03	Container Orchestration — networking, storage, security, troubleshooting 	 ***(Added)***
 - 04	Cloud Native Application Delivery — CI/CD, GitOps, debugging 	 ***(Added)***
 - 05	Observability — logs, metrics, traces 	 ***(Added)***
-- 06	Hands-on lab walkthroughs 	 (scheduled)
-- 07	Full-length original practice exam + answer explanations 	 (scheduled)
-- 08	Exam-day logistics and what comes after 	 (scheduled)
+- 06	Hands-on lab walkthroughs 	 ***(Added)***
+- 07	Full-length original practice exam + answer explanations 	 ***(Added)***
+- 08	Exam-day logistics and what comes after 	 ***(Added)***
 
 ## Cloud Native Kubernetes Concepts (Self Study)
 - 01_What_is_CN?.md
